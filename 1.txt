@@ -1,0 +1,9 @@
+"Summary":"Приложению не удается произвести регистрацию пользователя"
+"ОS":"Android 11",
+"Environment":"Samsung Galaxy M31",
+"Severity":"Major",
+"Priority":"Medium",
+"Status":"Open",
+"Author":"Anton Maltsev",
+"Step",
+"Expected result"
